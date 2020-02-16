@@ -20,7 +20,9 @@ int main()
 }`
 #### Experience
 * none
-Education (including courses, seminars, lectures, online learning)
+
+#### Education
+* currently pursuing a Bachelor's degree in Artificial Intelligence
 
 #### English
 * studied for 13 years 
